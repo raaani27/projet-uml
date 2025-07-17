@@ -1,0 +1,5 @@
+{
+  "name": "safe-trip-server",
+  "scripts": { "start": "node index.js", "test": "jest" },
+  "dependencies": { "express":"^4","cors":"^2","dotenv":"^16","@supabase/supabase-js":"^2" }
+}
